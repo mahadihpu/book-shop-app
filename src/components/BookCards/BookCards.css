@@ -1,0 +1,17 @@
+.card-design {
+  width: 280px;
+  float: left;
+  margin: 40px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+  border: 1px solid #fff;
+}
+.card-img{
+    height:290px;
+    width:268px;
+    padding:10px 10px;
+    margin: 0 auto;
+}
+h4{
+    color:#6610f2
+}
